@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:1234/api/v1/Recipes"; // Replace with actual API URL
+const API_URL = "https://recipe02.onrender.com/api/v1/Recipes"; // Replace with actual API URL
 
 const recipeForm = document.getElementById("recipeForm");
 
